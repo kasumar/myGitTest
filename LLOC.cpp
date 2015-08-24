@@ -119,7 +119,7 @@ int main(int argc, char* argv[])
 
 	//alloc_test();
 
-	testCeilAndFloor();
+	//testCeilAndFloor();
 
 	{
 		unsigned int uiLength = 10;
